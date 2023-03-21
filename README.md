@@ -21,3 +21,14 @@ By default, StoreKit testing in Xcode is in a disable state. Follow these steps 
 
 When the app initializes a store, the system reads `Products.plist` and uses the product identifiers to request products from the StoreKit testing server.
 # WWDC-STOREKIT2
+
+
+# Links
+
+https://developer.apple.com/documentation/storekit/in-app_purchase/implementing_a_store_in_your_app_using_the_storekit_api
+
+https://developer.apple.com/videos/play/wwdc2021/10114/
+
+https://www.revenuecat.com/blog/engineering/ios-in-app-subscription-tutorial-with-storekit-2-and-swift/
+
+https://www.notion.so/StoreKit2-cd3b3114f048415f91d32193e518b1fa?pvs=4
