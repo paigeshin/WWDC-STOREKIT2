@@ -20,3 +20,4 @@ By default, StoreKit testing in Xcode is in a disable state. Follow these steps 
 4. For the StoreKit Configuration option, select the `Products.storekit` configuration file.
 
 When the app initializes a store, the system reads `Products.plist` and uses the product identifiers to request products from the StoreKit testing server.
+# WWDC-STOREKIT2
